@@ -1,0 +1,11 @@
+1) Puzzles
+2) Chess On
+3) Thinking Prosses
+   Where The Piece Or Pawn Goes
+   Does it Capture Anything 
+   What is opponent's Plan
+   If he/she has a Plan then Destory it
+   Make a plan and activate it
+   Check that the squares that the piece was defending before making a move on board
+   See the whole board
+    
